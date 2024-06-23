@@ -5,7 +5,7 @@ The goal of the project was to analyze store sales data to gain insights into sa
 
 Step 1: Data Collection
 
-Objective: Gather all relevant sales data from various sources like github.
+Objective: Gather all relevant sales data from  sources like github.
 
 Collected sales data from multiple stores, including daily sales, product categories, and regional performance and order_id ,customer_id, and size , city and status of delivery.
 Compiled data from different formats (CSV files, Excel spreadsheets, and databases) into a unified Excel workbook.
